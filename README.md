@@ -1,5 +1,4 @@
 ### Hash Table Implementation in JavaScript  
-**Part of the #100DaysLearningChallenge by Saurabh Shukla Sir**
 
 ## 📚 Learning Topic  
 Understanding and Implementing **Hash Tables** in JavaScript — a data structure that stores data in key-value pairs for fast access using hashing.
